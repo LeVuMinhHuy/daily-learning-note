@@ -1,4 +1,4 @@
-daily learning note of mine
+my daily learning
 
 includes:
 
